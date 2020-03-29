@@ -5,7 +5,7 @@ package gkdev.springframework.petclinic.model;
  * @created 29/03/2020 - 14:10
  * @project pet-clinic
  */
-public class PetType {
+public class PetType extends BaseEntity {
 
     private String name;
 

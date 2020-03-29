@@ -5,7 +5,7 @@ package gkdev.springframework.petclinic.model;
  * @created 29/03/2020 - 14:08
  * @project pet-clinic
  */
-public class Person {
+public class Person  extends BaseEntity{
 
     private String firstName;
     private String lastName;
