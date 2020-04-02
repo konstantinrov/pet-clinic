@@ -2,6 +2,7 @@ package gkdev.springframework.petclinic.services.map;
 
 import gkdev.springframework.petclinic.model.Pet;
 import gkdev.springframework.petclinic.services.PetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
@@ -10,6 +11,7 @@ import java.util.Set;
  * @created 01/04/2020 - 13:33
  * @project pet-clinic
  */
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
 
     @Override
