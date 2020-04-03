@@ -1,0 +1,5 @@
+gkdev/springframework/petclinic/bootstrap/DataLoader.class
+gkdev/springframework/petclinic/PetClinicApplication.class
+gkdev/springframework/petclinic/controllers/OwnerController.class
+gkdev/springframework/petclinic/controllers/IndexController.class
+gkdev/springframework/petclinic/controllers/VetController.class
