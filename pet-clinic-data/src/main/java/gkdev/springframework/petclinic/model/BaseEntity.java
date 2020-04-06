@@ -1,5 +1,9 @@
 package gkdev.springframework.petclinic.model;
 
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.MappedSuperclass;
 import java.io.Serializable;
 
 /**
@@ -7,8 +11,11 @@ import java.io.Serializable;
  * @created 29/03/2020 - 18:16
  * @project pet-clinic
  */
+@MappedSuperclass
 public class BaseEntity implements Serializable {
 
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     public Long getId() {
