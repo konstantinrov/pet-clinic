@@ -1,11 +1,17 @@
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/model/PetType.java
+/Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/SpecialtyService.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/map/VetServiceMap.java
+/Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/map/PetTypeMapService.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/VetService.java
+/Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/model/Visit.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/map/AbstractMapService.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/model/BaseEntity.java
+/Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/map/SpecialtyMapService.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/map/PetServiceMap.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/model/Owner.java
+/Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/PetTypeService.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/model/Person.java
+/Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/model/Specialty.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/OwnerService.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/services/map/OwnerServiceMap.java
 /Users/neox/gkdev/spring-training/pet-clinic/pet-clinic-data/src/main/java/gkdev/springframework/petclinic/model/Vet.java
