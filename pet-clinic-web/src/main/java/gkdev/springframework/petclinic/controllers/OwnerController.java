@@ -34,7 +34,6 @@ public class OwnerController {
         dataBinder.setDisallowedFields("id");
     }
 
-
     @RequestMapping("/find")
     public String findOwners(Model model) {
         model.addAttribute("owner", Owner.builder().build());
